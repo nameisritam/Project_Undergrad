@@ -46,7 +46,7 @@ This project analyzes various factors influencing customer tenure in a telecom c
 cd customer-tenure-analysis
 ## Author
 - **Ritam Bhattacharya**
-  - Email: [your_email@example.com](rbhattacharya848@gmail.com)
+  - Email: [rbhattacharya848@gmail.com](rbhattacharya848@gmail.com)
   - GitHub: [Ritam Bhattacharya](https://github.com/nameisritam)
  ## Acknowledgments
 - Supervisor: Prof. Anup Kumar Giri, Maulana Azad College.
